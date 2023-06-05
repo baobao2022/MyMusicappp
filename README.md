@@ -1,2 +1,2 @@
-# MyMusicappp
+# MyMusic
 Musicapp
